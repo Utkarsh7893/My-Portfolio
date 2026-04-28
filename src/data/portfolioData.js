@@ -163,7 +163,7 @@ export const experience = [
     location: "India",
     period: "Feb 2026 – Mar 2026",
     logo: "https://res.cloudinary.com/dzrxrqks8/image/upload/v1777207402/Intern-logo_udx8gd.jpg", // Add company logo URL/path here
-    link: "#", // Add proof/certificate link here
+    link: "https://drive.google.com/file/d/1f7yIrxXYV3C-en_-VX2JtoP-P5Dmg2NF/view?usp=sharing", // Add proof/certificate link here
     detailedDescription:
       "During my internship at Safety Circle, I was responsible for delivering comprehensive Environment, Health, and Safety (EHS) training programs across major industrial facilities in India. I worked at prestigious locations including Adani Connex (housing Google & Microsoft Data Centers), BPCL, Sterling & Wilson, and Voltas. My training covered critical safety domains including Fire Safety, Electrical Safety, Hazard Identification & Risk Assessment (HIRA), Emergency Response protocols, Work at Height procedures, First Aid, Ergonomics, and 5S compliance frameworks. I coordinated end-to-end training logistics, managed stakeholder relationships, and delivered technical presentations to diverse audiences across industrial environments.",
     description: [
