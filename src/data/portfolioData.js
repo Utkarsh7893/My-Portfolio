@@ -23,7 +23,7 @@ export const personalInfo = {
   instagram: "https://www.instagram.com/utkarsh.creates/", // Add your Instagram URL
   twitter: "https://x.com/jaycob4498", // Add your X (Twitter) URL
   youtube: "https://www.youtube.com/@Utkarsh-z8j/featured", // Add your YouTube URL
-  resumeLink: "https://drive.google.com/file/d/12L6Pm0rOSEhsLwafH-rkYinAwPkcHnnj/view?usp=sharing", // Add a link to your hosted resume
+  resumeLink: "https://drive.google.com/file/d/18r6jVzNX5RiA54RdLFaeoSe8WkmXoO9a/view?usp=sharing", // Add a link to your hosted resume
   videoCvLink: "https://drive.google.com/file/d/1-lRWQLCtidmuBwvKXMmnKnpKUFHqP8Fl/view?usp=sharing", // Add a link to your Video CV
   bio: `I'm a Computer Science undergraduate at Lovely Professional University, passionate about building full-stack web applications that solve real-world problems. With hands-on experience in the MERN and PERN stacks, I love crafting responsive, user-centric interfaces paired with robust backend architectures. From IoT dashboards to blood donation networks and student finance platforms — I bring ideas to life with clean code and modern design.`,
 };
